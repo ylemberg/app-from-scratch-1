@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ylemberg/app-from-scratch-1/issues"
   },
-  "homepage": "https://github.com/ylemberg/app-from-scratch-1#readme"
+  "homepage": "https://github.com/ylemberg/app-from-scratch-1#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.6",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }
